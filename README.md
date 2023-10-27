@@ -1,5 +1,4 @@
-git clone https://github.com/uvipen/uvipen
- 
+
 
 <p style="color:;"> WELCOME TO MY PAGE 👋👋👋 </p> 
 <p>My name is Dinh Nguyen. I am a Programmer, majoring in Software Engineering. In addition, I know a little AI engineer. I am interested in the following topics: Software, ML, and DL Application Websites on all platforms. Especially related projects in daily life</p>
